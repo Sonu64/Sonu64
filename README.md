@@ -1,6 +1,8 @@
 ### Hi 👋👋  This is Sourakanti here !
 Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design, Game Development and Robotics. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology.
 
+[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh)
+
 ## About Me
 🌍 Location: Bankura, West Bengal, India  
 🎓 Education: A  Mechatronics Engineering Undergrad at __Indian Institute of Information Technology Bhagalpur__   
