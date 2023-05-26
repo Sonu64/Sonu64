@@ -15,21 +15,23 @@ I enjoy working on projects related to:
 👉 Unity C#  
 
 ## Skills
-# 🟢 Programming languages: C, C++, HTML, CSS, JavaScript, Python   
-# 🟢 Frameworks and libraries: Flask   
-# 🟢 Tools and technologies: Solidworks, VS Code, Arduino IDE      
-# 🟢 Other skills: Unity 3D Game Development 
+🟢 Programming languages: C, C++, HTML, CSS, JavaScript, Python   
+🟢 Frameworks and libraries: Flask   
+🟢 Tools and technologies: Solidworks, VS Code, Arduino IDE      
+🟢 Other skills: Unity 3D Game Development 
 
 
 ## Contributions
 I am looking forward to contribute in Open Source Projects ASAP !   
 
 ## Let's Connect
-LinkedIn: https://www.linkedin.com/in/sourakanti-mandal-60aa611b1/
-
-😊 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of technology together !
+LinkedIn: https://www.linkedin.com/in/sourakanti-mandal-60aa611b1/   
 
 
 
-Find my Languages used over time below 👇  
+😊 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of technology together !   
+
+
+
+Find my Languages used over time below 👇   
 [![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh)
