@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Fu
 
 ## About Me
 🌍 Location: Bankura, West Bengal, India  
-🎓 Education: A  Mechatronics Engineering Undergrad at __Indian Institute of Information Technology Bhagalpur__
+🎓 Education: A  Mechatronics Engineering Undergrad at __Indian Institute of Information Technology Bhagalpur__   
 📧 Contact: sourakanti.2201185me@iiitbh.ac.in  
 
 ## Interests  
