@@ -38,4 +38,4 @@ LinkedIn: https://www.linkedin.com/in/sourakanti-mandal-60aa611b1/
 Find my Languages used over time below 👇   
 [![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh)
 
-[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh)
+
