@@ -12,15 +12,14 @@ Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Fu
 I enjoy working on projects related to:  
 👉 UI/UX Design  
 👉 JavaScript  
-👉 HTML, CSS  
-👉 Arduino  
-👉 Unity C#  
+👉 HTML, CSS
+👉 Python
 
 ## Skills
 🟢 Programming languages: C, C++, HTML, CSS, JavaScript, Python   
 🟢 Frameworks and libraries: Flask   
-🟢 Tools and technologies: Solidworks, VS Code, Arduino IDE      
-🟢 Other skills: Unity 3D Game Development 
+🟢 Tools and technologies: VS Code  
+🟢 Other hobbies: Just <3 to play Chess, Cricket and Football.  
 
 
 ## Contributions
