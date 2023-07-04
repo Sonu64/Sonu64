@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Fu
 I enjoy working on projects related to:  
 👉 UI/UX Design  
 👉 JavaScript  
-👉 HTML, CSS
+👉 HTML, CSS. 
 👉 Python
 
 ## Skills
