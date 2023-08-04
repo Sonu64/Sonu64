@@ -9,7 +9,8 @@
 <br>
 
 [![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonu64)
-
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu64&show_icons=true&locale=en" alt="sonu64" /></p>
 
 
 
