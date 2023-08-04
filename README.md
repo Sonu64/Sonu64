@@ -8,7 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu64&show_icons=true&locale=en&layout=compact" alt="sonu64" /></p>  <br><br>
 
-## <h1>About Me<h1>
+<h1>About Me</h1>
 🌍 Location: Bankura, West Bengal, India  
 🎓 Education: A  Mechatronics Engineering Undergrad at __Indian Institute of Information Technology Bhagalpur__   
 📧 Contact: sourakanti.2201185me@iiitbh.ac.in  
