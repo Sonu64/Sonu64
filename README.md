@@ -8,6 +8,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu64&show_icons=true&locale=en&layout=compact" alt="sonu64" /></p>  <br><br>
 
+
+<br>
 <h1>About Me</h1>
 🌍 Location: Bankura, West Bengal, India  
 🎓 Education: A  Mechatronics Engineering Undergrad at __Indian Institute of Information Technology Bhagalpur__   
@@ -21,6 +23,7 @@
 
 ## Contributions
 - 🔭 I’m currently contributing to [Enyugma '23 Website](https://github.com/DevCIIITBhagalpur/enyugma23)
+- 🔭 I also contributed to [Front End Projects](https://github.com/TusharKesarwani/Front-End-Projects) in Social Summer if Code 3.0
 
 ## Let's Connect
 <p align="left">
