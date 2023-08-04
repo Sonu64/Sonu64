@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
 <h3 align="center">A Passionate Learner, currently focusing on Full Stack Web Development.</h3>
-Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design and Python Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology.
+Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design and Python Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology.  
+
+  
 
 [![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh) 
 
