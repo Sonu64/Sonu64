@@ -1,7 +1,7 @@
 ### Hi 👋👋  This is Sourakanti here !
 Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design and Python Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology.
 
-[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh)
+[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh) <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu64&show_icons=true&locale=en&layout=compact" alt="sonu64" /></p>
 
 ## About Me
 🌍 Location: Bankura, West Bengal, India  
@@ -31,6 +31,6 @@ Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Fu
 
 
 Find my Languages used over time below 👇   
-[![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh)
+
 
 
