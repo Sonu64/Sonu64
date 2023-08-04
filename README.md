@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
 <h3 align="center">A Passionate Learner, currently focusing on Full Stack Web Development.</h3>
-Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design and Python Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology.  
+<p>Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design and Python Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology. </p> 
 
   
 
@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Fu
 
 
 😊 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of technology together !   
-
-
-
-Find my Languages used over time below 👇   
 
 
 
