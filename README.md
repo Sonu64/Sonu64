@@ -4,9 +4,9 @@
 
   
 
-[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh) 
+[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh)[![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonu64)
 
-[![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonu64)
+
 
 
 <br>
