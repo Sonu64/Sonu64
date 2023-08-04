@@ -6,7 +6,7 @@
 
 [![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu64&show_icons=true&locale=en&layout=compact" alt="sonu64" /></p>  <br><br>
+[![Sonu64's GitHub | Topics](https://stats.quine.sh/Sonu64/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonu64)>  <br><br>
 
 
 <br>
