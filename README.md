@@ -3,6 +3,7 @@
 <p>Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Full Stack Web Development, UI/UX Design and Python Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology. </p><br><br>
 
 <br>
+<a href="https://github-profile-trophy.vercel.app/?username=sonu64&theme=onedark"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu64" alt="sonu64" /></a> </p><br>
 
 [![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh)
