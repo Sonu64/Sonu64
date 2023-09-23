@@ -18,7 +18,7 @@
 <br>
 <h1>About Me</h1>
 <p>🌍 Location: Bankura, West Bengal, India<br>
-🎓 Education: A  Mechatronics Engineering Undergrad at <strong>Indian Institute of Information Technology Bhagalpur</strong><br>
+🎓 Education: A Mechatronics and Automation Engineering Undergrad at <strong>Indian Institute of Information Technology Bhagalpur</strong><br>
 📧 Contact: <a href="mailto:sourakanti.2201185me@iiitbh.ac.in">sourakanti.2201185me@iiitbh.ac.in</a>  </p>
 
 <h1>Languages and Tools</h1>
