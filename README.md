@@ -13,7 +13,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu64&show_icons=true&locale=en" alt="sonu64" /></p>
 
-(https://holopin.me/sonu64)](https://holopin.io/@sonu64)
+
 
 
 
