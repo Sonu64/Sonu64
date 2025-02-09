@@ -32,7 +32,7 @@
 
 
 ## Contributions
-- 🔭 I’m currently contributing to [Obstacle Dodge Game](https://github.com/Sonu64/ObstacleDodge)
+- 🔭 I’m currently contributing to [Obstacle Dodge Game](https://github.com/Sonu64/Obstacle_Dodge)
 - 🔭 I also contributed to [Front End Projects](https://github.com/TusharKesarwani/Front-End-Projects) in Social Summer if Code 3.0
 
 ## Let's Connect
