@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
 <h3 align="center">A Passionate Learner, currently focusing on Unity Game Development and MERN Stack Development</h3>
-<p>Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Computer Science and Game Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology. </p><br><br>
+<p>Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Computer Science, Game Development and Full Stack Web Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology. </p><br><br>
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu64&theme=juicyfresh" alt="sonu64" /></a> <br><br>
