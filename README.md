@@ -1,50 +1,108 @@
-<h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
-<h3 align="center">A Passionate Learner, currently focusing on Unity Game Development and MERN Stack Development</h3>
-<p>Welcome to my GitHub profile! I'm Sourakanti Mandal, and I'm passionate about Robotics, Game Developmen and Full Stack Web Development. Here you'll find a collection of my projects, contributions, and explorations of my journey in the world of technology. </p><br><br>
+<h2 align="left">Hi 👋! This is Sourakanti from West Bengal, India. I am a Mechatronics and Automation Engineering student at Indian Institute of Information Technology (IIIT) Bhagalpur.</h2>
 
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu64&theme=juicyfresh" alt="sonu64" /></a> <br><br>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonu64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-[![Sonu64's GitHub | Stats](https://stats.quine.sh/Sonu64/github?theme=dark)](https://quine.sh)
-<br>
+###
 
-[![Sonu64's GitHub | Languages Over Time](https://stats.quine.sh/Sonu64/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sonu64)
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu64&show_icons=true&locale=en" alt="sonu64" /></p>
+<h3 align="left">My Areas of Interest (Some I'm Good at, Rest I do as an hobbyist)</h3>
 
+###
 
+<p align="left">💻 Full Stack Web Development<br>🤖 Robotics<br>🌐 Ethical Hacking <br>🎮 Game Development</p>
 
+###
 
+<h3 align="left">My Tools and Technologies</h3>
 
-<br>
-<h1>About Me</h1>
-<p>🌍 Location: Bankura, West Bengal, India<br>
-🎓 Education: A Mechatronics and Automation Engineering Undergrad at <strong>Indian Institute of Information Technology Bhagalpur</strong><br>
-📧 Contact: <a href="mailto:sourakanti.2201185me@iiitbh.ac.in">sourakanti.2201185me@iiitbh.ac.in</a>  </p>
+###
 
-<h1>Languages and Tools</h1>
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
+###
 
+<h3 align="left">Social</h3>
 
- 
+###
 
+<div align="left">
+  <a href="https://linkedin.com/sourakanti-mandal-60aa611b1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sourakanti99@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mailto:sourakanti.2201185me@iiitbh.ac.in" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-## Contributions
-- 🔭 I’m currently contributing to [Obstacle Dodge Game](https://github.com/Sonu64/Obstacle_Dodge)
-- 🔭 I also contributed to [Front End Projects](https://github.com/TusharKesarwani/Front-End-Projects) in Social Summer if Code 3.0
+###
 
-## Let's Connect
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/sonu64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sonu64" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/sonu64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sonu64" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourakanti-mandal-60aa611b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourakanti-mandal-60aa611b1/" height="30" width="40" /></a>
-</p>  
+<h3 align="left">Contributions</h3>
 
+###
 
+<img src="https://raw.githubusercontent.com/Sonu64/Sonu64/output/snake.svg" alt="Snake animation" />
 
-😊 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of technology together !   
+###
 
+<h3 align="left">Profile Views</h3>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sonu64/count.svg?"  />
+</div>
+
+###
