@@ -89,14 +89,6 @@
 
 ###
 
-<h3 align="left">Contributions</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sonu64/Sonu64/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Profile Views</h3>
 
 ###
