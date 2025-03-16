@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Web Development<br>🤖 Robotics and AI<br>🎮 Game Development</p>
+<p align="left">💻 Full Stack Web Development<br>🤖 Robotics and Computer Systems<br>🎮 Game Development</p>
 
 ###
 
