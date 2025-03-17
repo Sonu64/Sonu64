@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! This is Sourakanti from West Bengal, India. I am a Mechatronics and Automation Engineering student at Indian Institute of Information Technology (IIIT) Bhagalpur.</h2>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ###
 
 <div align="center">
@@ -11,7 +11,7 @@
 ###
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sourakanti-mandal-60aa611b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sourakanti-mandal-60aa611b1?trk=profile-badge">Sourakanti Mandal</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sourakanti-mandal-60aa611b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sourakanti-mandal-60aa611b1?trk=profile-badge">Sourakanti Mandal</a></div>
               
 ###
 
