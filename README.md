@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! This is Sourakanti from West Bengal, India. I am a Mechatronics and Automation Engineering student at Indian Institute of Information Technology (IIIT) Bhagalpur.</h2>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ###
 
 <div align="center">
@@ -10,10 +10,6 @@
 
 ###
 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sourakanti-mandal-60aa611b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sourakanti-mandal-60aa611b1?trk=profile-badge">Sourakanti Mandal</a></div>
-              
-###
 
 <h3 align="left">My Areas of Interest (Some I'm Good at, Rest I do as an hobbyist)</h3>
 
@@ -82,7 +78,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/sourakanti-mandal-60aa611b1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:sourakanti99@outlook.com" target="_blank">
