@@ -7,6 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+###
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sourakanti-mandal-60aa611b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sourakanti-mandal-60aa611b1?trk=profile-badge">Sourakanti Mandal</a></div>
+              
 ###
 
 <h3 align="left">My Areas of Interest (Some I'm Good at, Rest I do as an hobbyist)</h3>
@@ -76,7 +82,7 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/sourakanti-mandal-60aa611b1" target="_blank">
+  <a href="https://linkedin.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:sourakanti99@outlook.com" target="_blank">
