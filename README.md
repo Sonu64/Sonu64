@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
-<h3 align="center">A passionate Automation engineering student currently pursuing CS50x and learning Data Structures and Algorithms in Java. I have a deep love for fore Computer science and I look forward to pursue Masters in CS after the GATE CS Exam.</h3>
+<h3 align="center">A passionate Automation engineering student currently learning AI/ML, Data Structures and Algorithms, Full-Stack Python Development. I have a deep love for core Computer science and I look forward to pursue Masters in the same, after the GATE Computer Science Exam.</h3>
 
 - 🔭 I’m currently working on **Full-Stack Django Development**
 
