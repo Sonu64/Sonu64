@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
 <h3 align="center">A passionate Automation engineering student currently pursuing CS50x and learning Data Structures and Algorithms in Java. I have a deep love for fore Computer science and I look forward to pursue Masters in CS after the GATE CS Exam.</h3>
 
-- 🔭 I’m currently working on **Java Development**
+- 🔭 I’m currently working on **Full-Stack Django Development**
 
-- 🌱 Current learnings **Harvard CS50's Introduction to Computer Science, Data Structures and Algorithms using Java.**
+- 🌱 Current DSA Path **Data Structures and Algorithms using Java.**
+- 🌱 Current AI.ML Path **Artificial Intelligence and Machine Learning with Python, Numpy, Pandas, Matplotlib....**
 
-- 👯 I’m looking to collaborate on **Spring Boot Projects**
+- 👯 I’m looking to collaborate on **Django Projects**
 
-- 💬 Ask me about **Java, Spring Boot, Computer science**
+- 💬 Ask me about **Python, Django, Flask, NumPy, Pandas Computer science**
 
 - 📫 How to reach me **sonusantu64@gmail.com**
 
