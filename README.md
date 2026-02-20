@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 📫 Reach me via **sonusantu64@gmail.com**
+  - 📫 Reach me via <a href="mailto:sonusantu64@gmail.com">sonusantu64@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
