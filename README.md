@@ -11,10 +11,11 @@
 
 - 💬 Ask me about **Python, Django, Flask, NumPy, Pandas, Computer science**
 
-- 📫 Reach me via **sonusantu64@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 Reach me via **sonusantu64@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
