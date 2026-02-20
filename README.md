@@ -3,14 +3,15 @@
 
 - 🔭 I’m currently working on **Full-Stack Django Development**
 
-- 🌱 Current DSA Path **Data Structures and Algorithms using Java.**
-- 🌱 Current AI.ML Path **Artificial Intelligence and Machine Learning with Python, Numpy, Pandas, Matplotlib....**
+- 🧑‍💻 Current DSA Path: **Data Structures and Algorithms using Java.**
+- 🧠 Current AI/ML Path: **Artificial Intelligence and Machine Learning with Python, Numpy, Pandas, Matplotlib....**
+- 🔓 Current Hobby Path: **Computer Networks and CyberSecurity**
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 💬 Ask me about **Python, Django, Flask, NumPy, Pandas Computer science**
+- 💬 Ask me about **Python, Django, Flask, NumPy, Pandas, Computer science**
 
-- 📫 How to reach me **sonusantu64@gmail.com**
+- 📫 Reach me via **sonusantu64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
