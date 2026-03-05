@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
 <h3 align="center">A passionate Automation engineering student currently learning AI/ML, Data Structures and Algorithms, Full-Stack Python Development. I have a deep love for core Computer science and I look forward to pursue Masters in the same, after the GATE Computer Science Exam.</h3>
 
-- 🔭 I’m currently working on **Full-Stack Django Development**
+- 🔭 I’m currently working on **Full-Stack Java Development**
 
 - 🧑‍💻 Current DSA Path: **Data Structures and Algorithms using Java.**
 - 🧠 Current AI/ML Path: **Artificial Intelligence and Machine Learning with Python, Numpy, Pandas, Matplotlib....**
 - 🔓 Current Hobby Path: **Computer Networks and CyberSecurity**
+- 🥬 Current Full-Stack Development Path: **Java Spring Boot**
 
-- 👯 I’m looking to collaborate on **Django Projects**
 
-- 💬 Ask me about **Python, Django, Flask, NumPy, Pandas, Computer science**
+- 💬 Ask me about **Python, Flask, NumPy, Pandas, Java, Spring Boot and Computer Science**
 
 
 
