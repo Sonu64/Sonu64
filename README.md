@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sourakanti Mandal</h1>
-<h3 align="center">A passionate Automation engineering student currently learning AI/ML, Data Structures and Algorithms and Full-Stack Java Development using Spring Boot. I have a deep love for core Computer science and I look forward to pursue Masters in the same, after the GATE Computer Science Exam.</h3><br>
+# Hi, I'm Sourakanti Mandal 👋
 
-- 🔭 I’m currently working on **Full-Stack Java Development using Spring Boot**<br>
+**Mechatronics & Automation Engineering** student at IIIT Bhagalpur, building toward **Robotics Software Engineering** — with ROS2, C++, and embedded systems as my core focus. Preparing for **GATE CS**, targeting an M.Tech in Robotics / UAV / Cyber-Physical Systems at IIT or IISc.
 
-- 🧑‍💻 Current DSA Path: **Data Structures and Algorithms using Java.**
-- 🧠 Current AI/ML Path: **Artificial Intelligence and Machine Learning with Python, Numpy, Pandas, Matplotlib....**
-- 🔓 Current Hobby Path: **Computer Networks and CyberSecurity**
-- 🥬 Current Full-Stack Development Path: **Java Spring Boot**
-<br>
+---
 
-- 💬 Ask me about **Python, Java, Flask, NumPy, Pandas, Spring Boot and Computer Science**
+## 🤖 Robotics & Embedded Systems
 
-<br><br>
+My primary focus right now.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  - 📫 Reach me via <a href="mailto:sonusantu64@gmail.com">sonusantu64@gmail.com</a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- **[`robotics`](https://github.com/Sonu64/robotics)** — A ROS2 + C++ workspace built with `colcon`. Contains standalone C++ programs for robotics algorithms and hardware interfacing, along with ROS2 packages (nodes, launch files, configs) for robot control and perception. Includes rosbag-based data recording work. 150 commits of ongoing, hands-on practice.
+
+*Actively converting this into standalone, documented projects as I build a proper robotics portfolio for M.Tech applications and robotics SWE roles.*
+
+---
+
+## 💻 Full-Stack / Web Development
+
+- **[Fundwarden](https://fundwarden-gold.onrender.com/)** — my CS50 final project. An envelope-budgeting web app: users allocate monthly income into custom spending categories, enforced by a "Hard Ceiling" system that prevents over-allocation. Includes full auth (login/register), deployed on Render.
+- Contributed to multiple web development projects through my college tech club.
+
+---
+
+## 📚 Computer Science Fundamentals
+
+- **[CS50x](https://cs50.harvard.edu/certificates/3078339c-0bb3-47d7-b078-1a9040b2ad76)** — Harvard's Introduction to Computer Science. Completed all ten problem sets plus the final project (Fundwarden).
+- **[`DSA_with_Java`](https://github.com/Sonu64/DSA_with_Java)** — Data Structures & Algorithms practice in Java.
+- **[`Network-Programming`](https://github.com/Sonu64/Network-Programming)** — Networking fundamentals in C++.
+
+---
+
+## 🛠️ Tech Stack
+
+**Robotics / Core:** C · C++ · ROS2 · Linux
+**Languages:** Python · Java · JavaScript · TypeScript
+**Web:** React · Flask · Spring Boot · HTML5 · CSS3 · Bootstrap · Tailwind CSS
+**Databases:** MongoDB · MySQL · PostgreSQL · SQLite · Redis
+**Tools:** Git · Figma · Unity
+
+---
+
+## 🎯 Currently
+
+- 📖 Preparing for **GATE CS 2027**
+- 🤖 Building out a proper, documented robotics/ROS2 project portfolio
+- 🎓 Aiming for M.Tech in Robotics / UAV / Cyber-Physical Systems
+
+---
+
+## 📫 Connect
+
+- LinkedIn: [sourakanti-mandal](https://www.linkedin.com/in/sourakanti-mandal-60aa611b1/)
+- Email: sonusantu64@gmail.com
