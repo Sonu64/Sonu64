@@ -41,7 +41,7 @@ My primary focus right now.
 
 ## 🎯 Currently
 
-- 📖 Preparing for **GATE CS 2027**
+- 📖 Preparing for **GATE CS, RA 2027 and 2028**
 - 🤖 Building out a proper, documented robotics/ROS2 project portfolio
 - 🎓 Aiming for M.Tech in Robotics / UAV / Cyber-Physical Systems
 
